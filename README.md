@@ -8,18 +8,20 @@ https://cursos.alura.com.br/formacao-logica-de-programacao-grupo8-one
 projeto pronto em um site:  https://kadmielcruz.github.io/challengeamigosecreto/
 
 ## Descrição do Projeto:
-Esse projeto foi centrado em desafios que a Apple ajudou a criar e se fundamenta em 3 pilares: Compromisso, Investigar e Agir. Foram criadas funções para adicionar amigos, limpar o campo, inserir amigos na lista e sortear. Além das funções para criar uma lista, 
+Esse projeto foi centrado em desafios que a Apple ajudou a criar e se fundamenta em 3 pilares: Compromisso, Investigar e Agir. A ideia do projeto é possibilitar sotear nomes para amigos secreto de forma rapida e pratica. Foram criadas funções para adicionar amigos, limpar o campo, inserir amigos na lista e sortear. Além das funções para criar uma lista, 
 foram usados arrays e funções nativas do JavaScript, como o Math.floor e o Math.random, para realizar o sorteio.
  
  Projeto na pratica abaixo:
-#### Lista de nomes para o sorteio
+#### Lista de nomes para o sorteio:
 ![Captura de tela 2025-03-03 131141](https://github.com/user-attachments/assets/2958aeaf-6a0a-4188-a979-b1778eb17a63)
 
-#### Nome sorteado
+#### Nome sorteado:
 ![Captura de tela 2025-03-03 131247](https://github.com/user-attachments/assets/3b1393e6-4e2a-4138-b55d-387e43baf185)
 
-#### Caso nao coloque um nome
+#### Caso não coloque um nome:
 ![image](https://github.com/user-attachments/assets/7dd80db9-92c1-40ac-a580-895ffbc76263)
+
+Observação para recomeçar o sorteio é preciso atualizar a pagina novamente.
 
 Tecnologias:
  * Javascript. 
