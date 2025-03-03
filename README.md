@@ -5,6 +5,7 @@ https://cursos.alura.com.br/formacao-logica-de-programacao-grupo8-one
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge)
 
+projeto pronto em um site:  https://github.com/kadmielCruz/challengeamigosecreto/settings/pages 
 
 ## Descrição do Projeto:
 Esse projeto foi centrado em desafios que a Apple ajudou a criar e se fundamenta em 3 pilares: Compromisso, Investigar e Agir. Foram criadas funções para adicionar amigos, limpar o campo, inserir amigos na lista e sortear. Além das funções para criar uma lista, 
