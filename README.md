@@ -18,8 +18,12 @@ foram usados arrays e funções nativas do JavaScript, como o Math.floor e o Mat
 #### Nome sorteado:
 ![Captura de tela 2025-03-03 131247](https://github.com/user-attachments/assets/3b1393e6-4e2a-4138-b55d-387e43baf185)
 
-#### Caso não coloque um nome:
+#### Caso aperte o botão adicionar sem um nome:
 ![image](https://github.com/user-attachments/assets/7dd80db9-92c1-40ac-a580-895ffbc76263)
+
+#### Caso a lista esteja vazia ou seja não foi inserido nenhum nome para o sorteo e foi apertado o botão de sortear amigo:
+![image](https://github.com/user-attachments/assets/5f36ef23-fd3e-4151-87ea-ce70fb496aa8)
+
 
 Observação para recomeçar o sorteio é preciso atualizar a pagina novamente.
 
